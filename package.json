@@ -1,0 +1,13 @@
+{
+  "name": "blockchainjs",
+  "version": "1.0.0",
+  "description": "Projeto simples de Blockchain em JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node main.js",
+    "test": "echo \"Erro: nenhum teste especificado\" && exit 1"
+  },
+  "keywords": ["blockchain", "javascript", "cadeia de blocos"],
+  "author": "Arlisson Diogo (https://github.com/arlissondiogo)",
+  "license": "MIT"
+}
